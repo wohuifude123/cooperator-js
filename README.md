@@ -21,4 +21,4 @@ $ npm install --save-dev cooperator-js
 const CooperatorJs = require('cooperator-js');
 
 console.log(CooperatorJs.createRandom(2, 5))
-```sh
+```
